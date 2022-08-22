@@ -1,6 +1,8 @@
 ---
-title: Welcome to my blog
+title: My first blog!
 ---
 ## Hello world!
 
-I am here
+Does this show up?
+
+_How to I get posts to show?_
